@@ -1,6 +1,6 @@
-[![GitHub release](https://img.shields.io/github/release/psykzz/avorion-docker.svg?style=flat-square)]()
-[![Docker Automated buil](https://img.shields.io/docker/automated/psykzz/avorion-docker.svg?style=flat-square)]()
-[![Docker Pulls](https://img.shields.io/docker/pulls/psykzz/avorion-docker.svg?style=flat-square)]()
+[![GitHub release](https://img.shields.io/github/release/jojogsrv/avorion-docker-beta.svg?style=flat-square)]()
+[![Docker Automated buil](https://img.shields.io/docker/automated/jojogsrv/avorion-docker-beta.svg?style=flat-square)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/jojogsrv/avorion-docker-beta.svg?style=flat-square)]()
 
 Avorion beta branch for Docker
 ==============================
