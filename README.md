@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/jojogsrv/avorion-docker-beta.svg?style=flat-square)]()
+
 [![Docker Automated buil](https://img.shields.io/docker/automated/jojogsrv/avorion-docker-beta.svg?style=flat-square)]()
 [![Docker Pulls](https://img.shields.io/docker/pulls/jojogsrv/avorion-docker-beta.svg?style=flat-square)]()
 
