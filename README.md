@@ -2,8 +2,8 @@
 [![Docker Automated buil](https://img.shields.io/docker/automated/psykzz/avorion-docker.svg?style=flat-square)]()
 [![Docker Pulls](https://img.shields.io/docker/pulls/psykzz/avorion-docker.svg?style=flat-square)]()
 
-Avorion for Docker
-==================
+Avorion for Docker beta branch
+==============================
 
 
 ### Game Info
@@ -12,7 +12,7 @@ For some information about the game see https://www.kickstarter.com/projects/koo
 
 This is a docker image to create a dedicated server.
 
-**Currently supported version: 0.10.2**
+**Currently supported version: 0.12.1**
 
 
 ## Getting started
@@ -25,7 +25,7 @@ Starting the server
 
 Run the following to start the server.
 ```
-docker run --name avorion -d -v `pwd`/data:/root/.avorion/galaxies/avorion_galaxy -p 27000:27000 -p 27000:27000/udp -p 27003:27003 -p 27003:27003/udp -p 27020:27020 -p 27022:27022 psykzz/avorion-docker
+docker run --name avorion -d -v `pwd`/data:/root/.avorion/galaxies/avorion_galaxy -p 27000:27000 -p 27000:27000/udp -p 27003:27003 -p 27003:27003/udp -p 27020:27020 -p 27022:27022 jojogsrv/avorion-docker-beta
 ```
 
 The server data will be saved locally on the host machine within the data folder. This allows you to bring the server down, and restart when needed to do any updates.
